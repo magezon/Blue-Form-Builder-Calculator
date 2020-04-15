@@ -34,31 +34,24 @@
     <tr  id="download-form">
         <td width="50%">
             <div class="col-md-6">
-                <h3>Download form submissions as PDFs</h3>
-                <p><b>PDF</b> plugin enables you to download form submissions as PDFs. You can:</p>
-                <ul>
-                    <li>Export multiple submissions to PDF file</li>
-                    <li>Export a single submission to PDF in backend</li>
-                    <li>Export a single submission to PDF on frontend</li>
-                </ul>
-                <a href="https://blog.magezon.com/download-form-submission-pdf-blue-form-builder/">View tutorial</a>
-            </div>
+                <h3>Auto perform calculations</h3>
+                <p><b>PDF</b> plugin enables you to download form submissions as PDFs. You canCalculatorplugin lets you add a calculating field into your online forms to automate the calculation based on user input. This means you and your customers don’t have to calculate manually.:</p>
         </td>
         <td>
             <div class="col-md-6">
-                <img src="https://www.magezon.com/pub/media/blueformbuilder/blueformbuilder2/PDF_plugin___Export_a_submission_to_PDF_in_backend.png">
+                <img src="https://www.magezon.com/pub/media/blueformbuilder/blueformbuilder2/calculator-plugin-auto-perform-calculations.gif">
             </div>
         </td>
     </tr>
     <tr id="attach-sub">
         <td width="50%">
             <div class="col-md-6">
-                <p><img src="https://www.magezon.com/pub/media/blueformbuilder/blueformbuilder2/PDF_plugin___Attach_submission_pdfs_to_admin_email_notifications_1.png"></p>
+                <p><img src="https://www.magezon.com/pub/media/blueformbuilder/blueformbuilder2/calculator-plugin-basic-operations.png"></p>
             </div>
         </td>
         <td>
             <div class="col-md-6">
-                <h3>Attach submission PDFs to email notifications</h3>
+                <h3>Perform basic to complex calculations</h3>
                 <p>In <a href="https://www.magezon.com/blue-form-builder-auto-email-notifications">email notifications</a> sent to admins and customers, you can include the PDF files of form submissions as attachment. Your emails, therefore, will have a more professional look and feel.</p>
             </div>
         </td>
@@ -67,8 +60,7 @@
         <td width="50%">
             <div class="col-md-6">
                 <h3 <span style="color: #ff5510">Design PDFs</h3>
-                <p><b>PDF</b> plugin empowers you to customize the look and feel of PDF files the way you want: background color, border color, font size, etc.<p>
-                    <p>Moreover, you can preview how it looks after customization.</p>
+                <p>With this plugin, you can perform not only basic mathematical operations (add, subtract, multiply or divide) but also combined operations.</p>
             </div>
         </td>
         <td>
