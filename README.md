@@ -8,13 +8,12 @@
         <div class="product attribute overview">
             <div class="valune">
                 <p>
-                <p>PDFplugin allows you to create PDF copies of form submissions. Also, you can attach these PDF files to email notifications.</p>
+                <p><b>Calculator</b> plugin allows you create calculation forms based on user input. Use this plugin to quickly process booking forms, product order forms, cost estimation forms and so on.</p>
                 <ul class="firebase-list">
-                    <li><a href="#download-form">Download Form Submissions as PDFs</a></li>
-                    <li><a href="#attach-sub">Attach Submission PDFs to Email Notifications</a></li>
-                    <li><a href="#design">Design PDFs</a></li>
+                    <li><a href="#download-form">Auto perform calculations</a></li>
+                    <li><a href="#attach-sub">Perform basic to complex calculations</a></li>
                 </ul>
-                <p style="margin: 2rem 0; background-color: #eaeaea; padding: 5px;"><b>PDF</b> is a plugin of <a href="https://www.magezon.com/magento-2-form-builder.html">Blue Form Builder</a> extension. Please pre-install Blue Form Builder. After that, install PDF plugin and it will be integrated with existing Blue Form Builder on your website.</p> </div>
+                <p style="margin: 2rem 0; background-color: #eaeaea; padding: 5px;"><b>Calculator</b> is a plugin of <a href="https://www.magezon.com/magento-2-form-builder.html">Blue Form Builder</a> extension. Please pre-install Blue Form Builder. After that, install Calculator plugin and it will be integrated with existing Blue Form Builder on your website.</p></div>
         </div>
     <div>
                         <span><b>Community Edition:</b>&nbsp;2.1.x, 2.2.x, 2.3.x
@@ -22,8 +21,8 @@
     </div>
     <div>
         <h3>
-            </a>Demo <a href="http://blueformbuilder.m2.magezon.com/submission-confirmed/9611b286006172a77558615400d5a6031555560442#bfb-submission-pdf" rel="nofollow">Frontend</a> - <a
-                href="http://blueformbuilder.m2.magezon.com/admin/blueformbuilder/submission/edit/submission_id/107/"
+            </a>Demo <a href="http://blueformbuilder.m2.magezon.com/form/build-a-pizza" rel="nofollow">Frontend</a> - <a
+                href="http://blueformbuilder.m2.magezon.com/admin/blueformbuilder/form/edit/form_id/10/active/builder/"
                 rel="nofollow">Backend
         </a>
         </h3>
