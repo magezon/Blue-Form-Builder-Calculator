@@ -56,19 +56,6 @@
             </div>
         </td>
     </tr>
-    <tr id="design">
-        <td width="50%">
-            <div class="col-md-6">
-                <h3 <span style="color: #ff5510">Design PDFs</h3>
-                <p>With this plugin, you can perform not only basic mathematical operations (add, subtract, multiply or divide) but also combined operations.</p>
-            </div>
-        </td>
-        <td>
-            <div class="col-md-6">
-                <p><img src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/PDF___Design_PDFs.png"/></p>
-            </div>
-        </td>
-    </tr>
     </tbody>
 </table>
 <br>
@@ -79,10 +66,8 @@
             <td valign="top">
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                     <ul>
-                        <li><span style="font-weight: 400;">Download form submissions as PDFs</span></li>
-                        <li><span style="font-weight: 400;">Attach PDF to email autoresponders</span></li>
-                        <li><span style="font-weight: 400;">Attach submission PDFs to email notifications</span></li>
-                        <li><span style="font-weight: 400;">Design PDFs</span></li>
+                        <li><span style="font-weight: 400;">Auto perform calculation</span></li>
+                        <li><span style="font-weight: 400;">Perform basic to complex calculation</span></li>
                         <li><span style="font-weight: 400;">No core code changes</span></li>
                         <li><span style="font-weight: 400;">100% open source</span></li>
                         <li><span style="font-weight: 400;">Easy to install and configure</span></li>
@@ -98,20 +83,23 @@
 </div>
 <div>
     <h2>Frequently Asked Questions</h2>
-    <p>Do you have any questions about <strong>PDF&nbsp;</strong>plugin? See the list below for our most frequently asked questions. If your questions are not listed here, please <a href="https://www.magezon.com/contact/" target="_blank" rel="nofollow noopener">contact us</a>.</p>
+    <p>Do you have any questions about <b>Calculator</b> plugin? See the list below for our most frequently asked questions. If your questions are not listed here, please <a href="https://www.magezon.com/contact/" target="_blank" rel="nofollow noopener">contact us</a>.</p>
     <div class="col-md-6"><h3>Installation Instructions?</h3>
         <div class="panel">
             <p>To install the plugin, please refer to <a title="Report Plugin Installation Guide" href="https://magezon.com/pub/media/productfile/blueformbuilder-v1.0.0-installation-guides.pdf" target="_blank" rel="noopener"><strong>this document</strong></a> for detailed instructions. It will take you just a few minutes to install our plugin.</p>
         </div>
     </div>
-    <div class="col-md-6"><h3 class="accordion">How can I design the PDFs?</h3>
+    <div class="col-md-6"><h3 class="accordion">Where can I find this plugin after installation?</h3>
         <div class="panel">
-            <p dir="ltr">To customize the look of PDFs, navigate to <strong>Content &gt; Blue Form Builder &gt; Settings</strong>. In the box on the left, open <strong>PDF </strong>tab. Then on the right section, you will see <strong>Design Settings</strong>. To change any settings, just untick the relevant checkbox “Use system value”.</p>
-            <p dir="ltr"><img src="https://www.magezon.com/pub/media/wysiwyg/extension/blueformbuilder/PDF___Change_design_settings_for_PDF.png" alt="Magento 2 Form Builder | PDF plugin | Design settings"></p>
+            <p dir="ltr">After <b>Calculator</b> plugin is installed, there will appear a new element called ‘Calculator’ which you can add to your form with a single click.</p>
+        </div>
+        <h3 class="accordion">Can I add multiple ‘Calculator’ elements to a form?</h3>
+        <div class="panel">
+            <p>Yes, you can add as many ‘Calculator’ elements as needed.</p>
         </div>
         <h3 class="accordion">I cannot choose the Magento edition to install this plugin. Why?</h3>
         <div class="panel">
-            <p>Because<strong>&nbsp;PDF&nbsp;</strong>is a plugin of Blue Form Builder extension, the Magento edition for its installation will be decided by the edition you choose for Blue Form Builder.</p>
+            <p>Because <b>Calculator</b> is a plugin of Blue Form Builder extension, the Magento edition for its installation will be decided by the edition you choose for Blue Form Builder.</p>
         </div>
         <h3><button class="accordion"> How can I get your support?</button></h3>
                             <div class="panel">
