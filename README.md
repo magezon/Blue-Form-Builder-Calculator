@@ -1,9 +1,9 @@
 <html>
-<h1><a href="https://www.magezon.com/blue-form-builder-pdf.html">PDF Plugin | Blue Form Builder</a></h1>
+<h1><a href="https://www.magezon.com/blue-form-builder-calculator.html">Calculator Plugin | Blue Form Builder - Auto perform calculations on online forms</a></h1>
 <br/><br/>
 <table>
     <td width="30%" valign="top"style="border: none; ">
-        <br><a href="https://www.magezon.com/blue-form-builder-pdf.html"><img src="https://www.magezon.com/pub/media/catalog/product/p/d/pdf_2.png" alt="MailChimp plugin" aria-labelledby="labelledby1538121188674" class="fotorama__img" aria-hidden="false"><p>
+        <br><a href="https://www.magezon.com/blue-form-builder-calculator.html"><img src="https://www.magezon.com/pub/media/catalog/product/cache/813c6eab71ee72e46bd847e31f145017/c/a/calculator.png" aria-labelledby="labelledby1538121188674" class="fotorama__img" aria-hidden="false"><p>
     <td style="border:none;"></br>
         <div class="product attribute overview">
             <div class="valune">
